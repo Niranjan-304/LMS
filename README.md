@@ -25,4 +25,4 @@ A Learning Management System (LMS) is a web-based application designed to manage
 
 
 # Conclusion:
-An LMS enhances learning experiences by making education accessible, trackable, and interactive. It streamlines content delivery and ensures learners get the best educational resources in a structured manner.
+In this project their was still some to do and it was an undergoing process. Major files of the project has been developed.
